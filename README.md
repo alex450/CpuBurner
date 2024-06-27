@@ -1,1 +1,2 @@
 # CpuBurner
+USE GPLV3
